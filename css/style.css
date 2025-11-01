@@ -1,0 +1,87 @@
+#main-navbar {
+background-color: blue;
+overflow: hidden;
+}
+
+#navbar-container {
+float: left;
+width: 100%;
+position: relative;
+}
+
+#main-navbar ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+position: relative;
+left: 50%;
+float: left;
+}
+
+#main-navbar ul li {
+float: left;
+position: relative;
+right: 50%;
+display: block;
+}
+
+#main-navbar ul li a {
+display: block;
+padding: 10px 20px;
+color: #fff;
+text-decoration: none;
+}
+
+#main-navbar ul li a:hover {
+color: black;
+background-color: skyblue;
+border-radius: 50px;
+text-transform: uppercase;
+}
+
+#onpage {
+text-decoration: underline overline;
+}
+
+
+
+.interest2 {
+background-color: gray;
+list-style-type: none;
+margin: none;
+padding: 20px;
+position: relative;
+left: 43%;
+float: left;
+}
+
+.interest2 li{
+list-style-type: none;
+margin-left: -35px;
+text-align: center;
+
+
+}
+
+.interest2 ul{
+margin: auto;
+margin-left: 10px;
+
+}
+
+.name{
+background-color: #8E7618;
+text-align: center;
+
+}
+
+.box{
+height: 130px;
+background-color: skyblue;
+
+}
+
+#interest{
+background-color: green;
+text-align: center;
+}
